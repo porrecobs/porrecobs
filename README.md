@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nico][github] - Sometimes I forget to come here 👋
 
-
+## developer, artist, gamer and still emo
 - 🔭 I’m currently working on private projects, but some of them will be public soon
 - 🌱 I’m like to learn useful and useless things
 - 😄 Pronouns: he/him
@@ -32,6 +32,7 @@
 <br/>
 
  ⚡ **Fun fact**: did you know that Miles Morales was inspired by Donald Glover? In a [Community][community] scene, the actor appears dressed as Spider-Man and thanks to that inspiration, that scene appears as a cameo in *Spider-Verse*
+ <br/>
 <img height="150" align="center" src="https://raw.githubusercontent.com/porrecobs/porrecobs/main/assets/donald_cameo_spiderverse.jpg">
 
 
